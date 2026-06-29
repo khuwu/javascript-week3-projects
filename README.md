@@ -82,6 +82,12 @@ Week3-Javascripts/
 └── README.md
 ```
 
+
+
+## About
+
+These projects were developed as part of my Frontend Development Internship to strengthen my understanding of core JavaScript concepts before moving on to modern JavaScript and frontend frameworks.
+068a15d18eb4daac51df9d70c18b326aefe216a7
 ---
 
 ## Author
